@@ -10,7 +10,5 @@ Readme
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirth678&label=Profile%20views&color=0e75b6&style=flat" alt="tirth678" /> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/Tirth678=DenverCoder1)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tirth678" alt="GitHub Streak" /></a>
