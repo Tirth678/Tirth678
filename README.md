@@ -12,11 +12,4 @@ Readme
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirth678&label=Profile%20views&color=0e75b6&style=flat" alt="tirth678" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tirth678&show_icons=true&locale=en&layout=compact" alt="tirth678" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tirth678&" alt="tirth678" /></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?Tirth678=DenverCoder1)](https://git.io/streak-stats)
