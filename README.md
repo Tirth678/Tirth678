@@ -1,12 +1,12 @@
 
 
 Readme
-<h1 align="center">Tirth S Pandya.</h1>
+<h1 align="center">Tirth S Pandya</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,apple,cpp,c,css,html,github,js,mysql,python,notion,selenium,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,apple,cpp,c,css,html,github,js,react,mysql,python,notion,selenium,vscode" />
   </a>
 </p>
 
