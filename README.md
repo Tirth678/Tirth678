@@ -1,7 +1,7 @@
 
 
 Readme
-<h1 align="center">Hi 👋, I'm Tirth S Pandya</h1>
+<h1 align="center">I'm Tirth S Pandya.</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
