@@ -6,7 +6,7 @@ Readme
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,css,html,git,github,js,typescript,express,mysql,python, zod />
+    <img src="https://skillicons.dev/icons?i=cpp,c,css,html,git,github,js,typescript,express,mysql,python/>
   </a>
 </p>
 
