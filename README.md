@@ -27,7 +27,3 @@ Built with Node.js, Express, MongoDB, TypeScript (MVC architecture)
 
 ## 🎯 Goals
 Build products that matter. Write code that lasts. Keep learning.
-
----
-
-**Status**: Always building 🚀
