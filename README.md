@@ -21,7 +21,7 @@ I build scalable web apps for a living.
 
 ## Current Project
 **Flow Board** - Collaborative project management platform  
-Built with Node.js, Express, MongoDB, TypeScript (MVC architecture)
+Built with Node.js, Express, MongoDB, JavaScript (MVC architecture)
 
 ---
 
