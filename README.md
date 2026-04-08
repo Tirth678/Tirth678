@@ -1,14 +1,33 @@
+# TypeScript Engineer
 
+I build scalable web apps for a living.
 
-Readme
-<h1 align="center">Tirth S Pandya</h1>
-<h3 align="center">A passionate Developer from India</h3>
+---
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,css,html,git,github,js,typescript,express,mysql,python/>
-  </a>
-</p>
+## Tech Stack
+**Frontend**: React, Next.js, TypeScript, Tailwind CSS  
+**Backend**: Node.js, Express, NestJS, TypeScript  
+**Database**: MongoDB, PostgreSQL, Redis  
+**DevOps**: Docker, GitHub Actions, AWS  
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tirth678" alt="GitHub Streak" /></a>
+---
+
+## Hobbies
+- **Reading**: Philosophy, tech books, sci-fi
+- **Writing**: Essays on tech & philosophy
+- **Gaming**: Strategy, puzzle, indie games
+
+---
+
+## Current Project
+**Flow Board** - Collaborative project management platform  
+Built with Node.js, Express, MongoDB, TypeScript (MVC architecture)
+
+---
+
+## 🎯 Goals
+Build products that matter. Write code that lasts. Keep learning.
+
+---
+
+**Status**: Always building 🚀
