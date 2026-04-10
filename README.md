@@ -19,11 +19,5 @@ I build scalable web apps for a living.
 
 ---
 
-## Current Project
-**Flow Board** - Collaborative project management platform  
-Built with Node.js, Express, MongoDB, JavaScript (MVC architecture)
-
----
-
 ## 🎯 Goals
 Build products that matter. Write code that lasts. Keep learning.
