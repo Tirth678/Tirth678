@@ -1,4 +1,4 @@
-# Full Stack Dev | AI
+# TypeScript Engineer | AI Researcher
 
 I build scalable web apps for a living.
 
