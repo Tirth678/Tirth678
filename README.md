@@ -9,7 +9,6 @@ I build scalable web apps for a living.
 **Backend**: Node.js, Express, TypeScript, JavaScript  
 **Database**: MongoDB, PostgreSQL, SQL, SupaBase, Firebase 
 **DevOps**: Docker, AWS  
-<h1> heading </h1>
 
 ---
 
