@@ -5,10 +5,10 @@ I build scalable web apps for a living.
 ---
 
 ## Tech Stack
-**Frontend**: React, Next.js, TypeScript, Tailwind CSS  
-**Backend**: Node.js, Express, NestJS, TypeScript  
-**Database**: MongoDB, PostgreSQL, Redis  
-**DevOps**: Docker, GitHub Actions, AWS  
+**Frontend**: React, Next.js, TypeScript, JavaScript, Tailwind CSS  
+**Backend**: Node.js, Express, TypeScript, JavaScript  
+**Database**: MongoDB, PostgreSQL, SQL, SupaBase, Firebase 
+**DevOps**: Docker, AWS  
 
 ---
 
