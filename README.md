@@ -8,6 +8,7 @@ I build scalable web apps for a living.
 **Frontend**: React, Next.js, TypeScript, JavaScript, Tailwind CSS  
 **Backend**: Node.js, Express, TypeScript, JavaScript  
 **Database**: MongoDB, PostgreSQL, SQL, SupaBase, Firebase 
+<br>
 **DevOps**: Docker, AWS  
 
 ---
