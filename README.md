@@ -20,5 +20,5 @@ I build scalable web apps for a living.
 
 ---
 
-## 🎯 Goals
+## Goals
 Build products that matter. Write code that lasts. Keep learning.
