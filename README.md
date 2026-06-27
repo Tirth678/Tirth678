@@ -1,4 +1,4 @@
-# Full Stack Dev | AI Researcher
+# TyeScript | AI | Linux
 
 I build scalable web apps for a living.
 
@@ -20,5 +20,3 @@ I build scalable web apps for a living.
 
 ---
 
-## Goals
-Build products that matter. Write code that lasts. Keep learning.
