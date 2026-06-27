@@ -1,4 +1,4 @@
-# TyeScript | AI | Linux
+# TypeScript | AI | Linux
 
 I build scalable web apps for a living.
 
