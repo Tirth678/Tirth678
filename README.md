@@ -3,10 +3,10 @@
 </p>
 
 ```text
-:3
+:)
 
 backend // ai // linux
 
-website | blog | x (twitter) | email
+website | blog | x (twitter) | <a href="https://codeforces.com/profile/Tirth101">codeforces</a>
 
 ```
