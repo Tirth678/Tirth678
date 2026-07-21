@@ -1,22 +1,12 @@
-# TypeScript | AI | Linux
+<p align="center">
+  <img src="YOUR_BANNER_GIF" width="100%" />
+</p>
 
-I build scalable web apps for a living.
+```text
+:3
 
----
+backend // ai // linux
 
-## Tech Stack
-**Frontend**: React, Next.js, TypeScript, JavaScript, Tailwind CSS  <br>
-**Backend**: Node.js, Express, TypeScript, JavaScript, Elysia <br>
-**Database**: MongoDB, PostgreSQL, SQL, SupaBase, Firebase 
-<br>
-**DevOps**: Docker, AWS  
+website | blog | x (twitter) | email
 
----
-
-## Hobbies
-- **Reading**: Philosophy, tech books, sci-fi
-- **Writing**: Essays on tech & philosophy
-- **Gaming**: Strategy, puzzle, indie games
-
----
-
+```
