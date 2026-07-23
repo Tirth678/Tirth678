@@ -3,10 +3,6 @@
 </p>
 
 ```text
-:)
-
-backend // ai // linux
-
 TyprScript Engineer @RoboCraft
 Operations Lead @AWSClubGSFCU
 VP for Education @HackerrankGSFCU
