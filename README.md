@@ -7,6 +7,7 @@
 
 backend // ai // linux
 
-just act dumb.
-
+TyprScript Engineer @RoboCraft
+Operations Lead @AWSClubGSFCU
+VC for Education @HackerrankGSFCU
 ```
