@@ -9,5 +9,5 @@ backend // ai // linux
 
 TyprScript Engineer @RoboCraft
 Operations Lead @AWSClubGSFCU
-VC for Education @HackerrankGSFCU
+VP for Education @HackerrankGSFCU
 ```
