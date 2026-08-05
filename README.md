@@ -3,7 +3,7 @@
 </p>
 
 ```text
-TyprScript Engineer @RoboCraft
+Founding Engineer @RoboCraft
 Operations Lead @AWSClubGSFCU
 VP for Education @HackerrankGSFCU
 ```
