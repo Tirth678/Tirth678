@@ -18,16 +18,11 @@
 
 ## Highlights
 
-* **Founding Engineer** — [RoboCraft](https://github.com/Tirth678)[cite: 1]
-* **Operations Lead** — AWS Club GSFCU[cite: 1]
-* **VP for Education** — HackerRank GSFCU[cite: 1]
+* **Founding Engineer** - [RoboCraft](https://github.com/Tirth678)
+* **Operations Lead** - AWS Club GSFCU
+* **VP for Education** - HackerRank GSFCU
 
 <br />
-
-## Tech & Focus
-
-* **Languages & Core:** TypeScript, JavaScript, Systems Design[cite: 1]
-* **Interest:** Full-Stack Systems, DevOps & Cloud Infrastructure
 
 <br />
 
