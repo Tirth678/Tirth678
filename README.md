@@ -2,7 +2,7 @@
 
 # Tirth S. Pandya
 
-`Software Engineer` &nbsp;•&nbsp; `20`
+`Software Engineer` &nbsp;•&nbsp; 
 
 *Building at scale, leading communities, and engineering solutions.*
 
