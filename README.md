@@ -4,12 +4,12 @@
 
   <br/>
 
-  <a href="github.com/Tirth678">GitHub</a> ·
-  <a href="https://portfolio-txrth-final-50.vercel.app/">Portfolio I</a> ·
-  <a href="https://portfolio-beyond-sigma.vercel.app/">Portfolio II</a> ·
-  <a href="https://x.com/TirthPandy57784">X</a> .
-  <a href="https://substack.com/@tirth819319/notes">Substack</a> .
-  <a href="tirthp244@proton.me">Email</a> .
+  <a href="github.com/Tirth678">GitHub</a> 
+  <a href="https://portfolio-txrth-final-50.vercel.app/">Portfolio I</a> 
+  <a href="https://portfolio-beyond-sigma.vercel.app/">Portfolio II</a> 
+  <a href="https://x.com/TirthPandy57784">X</a> 
+  <a href="https://substack.com/@tirth819319/notes">Substack</a> 
+  <a href="tirthp244@proton.me">Email</a> 
 
 </div>
 
