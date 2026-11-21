@@ -15,23 +15,10 @@
 
 ---
 
-- <h2>AI Research Intern</h2> *Light Publications*
-
-- Leading technical development and engineering initiatives.
-
-# Founding Engineer *RoboCraft Solutions Pvt Ltd*
-
-- Leading web development initiatives and technical execution.
-
-# Undergraduate Researcher *Alembic Pharmaceuticals*
-
-- Completed a one-month internship focused on data analytics.
-- Successfully delivered two data analysis projects.
-
-### Web Development Intern — INKPOT Publications Pvt. Ltd.
-
-- Contributed to the development and operations of Vadodara Family Fest.
-- Worked on ticket management, sponsorship, finance and event-related technical operations.
+- **AI Research Intern** - Light Publications
+- **Founding Engineer** - RoboCraft Solutions Pvt Ltd
+- **Undergraduate Researcher** - Alembic Pharmaceuticals
+- **Operations Lead** - AWS Student Builder Group GSFC
 
 ---
 
