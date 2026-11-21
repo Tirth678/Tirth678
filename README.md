@@ -15,17 +15,15 @@
 
 ---
 
-### AI Research Intern
-*Light Publications*
+# AI Research Intern *Light Publications*
 
 - Leading technical development and engineering initiatives.
 
-### Founding Engineer 
-*RoboCraft Solutions Pvt Ltd*
+# Founding Engineer *RoboCraft Solutions Pvt Ltd*
 
 - Leading web development initiatives and technical execution.
 
-### Data Analyst Intern — Unified Mentor Pvt. Ltd.
+# Undergraduate Researcher *Alembic Pharmaceuticals*
 
 - Completed a one-month internship focused on data analytics.
 - Successfully delivered two data analysis projects.
