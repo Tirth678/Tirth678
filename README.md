@@ -15,7 +15,7 @@
 
 ---
 
-# AI Research Intern *Light Publications*
+- <h2>AI Research Intern</h2> *Light Publications*
 
 - Leading technical development and engineering initiatives.
 
