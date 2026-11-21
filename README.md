@@ -15,20 +15,15 @@
 
 ---
 
-## Work Experience
-
-### Technical Lead — Alembic
-*Defense Robotics Startup*
+### AI Research Intern
+*Light Publications*
 
 - Leading technical development and engineering initiatives.
-- Contributing to the development of defense-oriented robotics solutions.
-- Secured a grant of ₹1,84,800 through GUIITAR Council.
 
-### Head of Web Development — CODE CLUB, GSFC University
+### Founding Engineer 
+*RoboCraft Solutions Pvt Ltd*
 
 - Leading web development initiatives and technical execution.
-- Building and maintaining web applications using React, TypeScript and Tailwind CSS.
-- Managing frontend development and deployment workflows.
 
 ### Data Analyst Intern — Unified Mentor Pvt. Ltd.
 
@@ -42,12 +37,10 @@
 
 ---
 
-## Achievements
-
-- **Top 800 Finalist** — Meta × PyTorch Hackathon, among 36,000+ participants.
-- **Runner-up** — Code Crush.
-- **3rd Place** — Inquizitive 2025, ACM GSFC Student Chapter.
-- **₹1,84,800 Grant Recipient** — GUIITAR Council, for defense robotics startup development.
+- **Top 800 Finalist** - Meta × PyTorch Hackathon, among 36,000+ participants.
+- **Runner-up** - Code Crush Ananta'25.
+- **3rd Place** - Inquizitive 2025, ACM GSFC Student Chapter.
+- **₹1,84,800 Grant Recipient** - GUIITAR Council, for defense robotics startup development.
 
 ---
 
