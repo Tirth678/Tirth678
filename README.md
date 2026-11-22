@@ -4,7 +4,6 @@
 
   <br/>
 
-  <a href="github.com/Tirth678">GitHub</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://portfolio-txrth-final-50.vercel.app/">Portfolio I</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://portfolio-beyond-sigma.vercel.app/">Portfolio II</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/TirthPandy57784">X</a>&nbsp;&nbsp;&nbsp;&nbsp;
