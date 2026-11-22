@@ -19,6 +19,7 @@
 - **Founding Engineer** - RoboCraft Solutions Pvt Ltd
 - **Undergraduate Researcher** - Alembic Pharmaceuticals
 - **Operations Lead** - AWS Student Builder Group GSFC
+- - **VC For Education** - Hackerrank Student Club GSFC
 
 ---
 
